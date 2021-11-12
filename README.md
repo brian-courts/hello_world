@@ -1,2 +1,2 @@
 # hello_world
-A simple test repo
+A simple test repo a little bit about me
